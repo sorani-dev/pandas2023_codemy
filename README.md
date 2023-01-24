@@ -25,3 +25,4 @@ Chapters:
 17. Sorting And Ordering Data - Pandas For Machine Learning 17
 18. Histograms With Matplotlib - Pandas For Machine Learning 18
 19. Area Plots With Matplotlib - Pandas For Machine Learning 19
+20. Bar Charts With Matplotlib - Pandas For Machine Learning 20
