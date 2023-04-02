@@ -32,3 +32,4 @@ Chapters:
 24. Hex Bin Plots With Matplotlib - Pandas For Machine Learning 24
 25. Density and KDE Plots With Matplotlib - Pandas For Machine Learning 25
 26. Intro To Linear Regression Models - Pandas For Machine Learning 26
+27. Train / Test Split for Linear Regression - Pandas For Machine Learning 27
