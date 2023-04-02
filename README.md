@@ -30,3 +30,4 @@ Chapters:
 22. Scatterplots With Matplotlib - Pandas For Machine Learning 22
 23. Box Plots With Matplotlib - Pandas For Machine Learning 23
 24. Hex Bin Plots With Matplotlib - Pandas For Machine Learning 24
+25. Density and KDE Plots With Matplotlib - Pandas For Machine Learning 25
