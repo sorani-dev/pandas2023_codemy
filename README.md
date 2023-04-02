@@ -27,3 +27,4 @@ Chapters:
 19. Area Plots With Matplotlib - Pandas For Machine Learning 19
 20. Bar Charts With Matplotlib - Pandas For Machine Learning 20
 21. Line Charts With Matplotlib - Pandas For Machine Learning 21
+22. Scatterplots With Matplotlib - Pandas For Machine Learning 22
