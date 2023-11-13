@@ -33,3 +33,4 @@ Chapters:
 25. Density and KDE Plots With Matplotlib - Pandas For Machine Learning 25
 26. Intro To Linear Regression Models - Pandas For Machine Learning 26
 27. Train / Test Split for Linear Regression - Pandas For Machine Learning 27
+28. Linear Regression And Residuals - Pandas For Machine Learning 28
