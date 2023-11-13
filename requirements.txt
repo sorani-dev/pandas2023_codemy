@@ -78,7 +78,7 @@ psutil==5.9.4
 pure-eval==0.2.2
 pycodestyle==2.10.0
 pycparser==2.21
-Pygments==2.14.0
+Pygments==2.15.0
 pyparsing==3.0.9
 pyrsistent==0.19.3
 python-dateutil==2.8.2
@@ -104,7 +104,7 @@ terminado==0.17.1
 threadpoolctl==3.1.0
 tinycss2==1.2.1
 tomli==2.0.1
-tornado==6.3.2
+tornado==6.3.3
 traitlets==5.8.1
 uri-template==1.2.0
 urllib3==1.26.18
